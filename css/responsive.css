@@ -1,0 +1,34 @@
+
+@media (max-width: 950px) {
+	.nav-ul,
+	.follow,
+	.div-icons {
+		display: none;
+	 }
+	 .burger {
+	 	display: block;
+	 }
+	 h1 {
+	 	margin-left: auto;
+	 	margin-right: auto;
+	 }
+	 .follow-2,
+	 .div-icons2 {
+		display: none;
+	}
+	
+}
+
+@media (max-width: 590px) {
+	
+	h4 {
+		font-size: 10px;
+		text-align: center;
+	}
+	.box {
+		align-items: center;
+	}
+	.footer-li {
+		font-size: 8px;
+	}
+}
