@@ -34,7 +34,7 @@
 .follow {
 	margin-left: 200px;
 }
-.social-icons {
+.icons {
 	margin-left: 10px;
 }
 .burger {
@@ -54,7 +54,7 @@ h1 {
 	font-family: 'Montserrat';
 	font-weight: bold;
 	text-transform: uppercase;
-	margin-top: 140px;
+	margin-top: 120px;
 	margin-bottom: 75px;
 	margin-left: 75px;
 }
